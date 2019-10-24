@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  car_controller:
+    container_name: car_controller
+    privileged: true
+    network_mode: host
+    restart: always
+    build:
+      context: .
+    volumes:
+      - "./:/opt/car-controller"
+      - "/var/run/sdp:/var/run/sdp"
+    devices:
+      - "/dev/ttyUSB0:/dev/ttyUSB0"

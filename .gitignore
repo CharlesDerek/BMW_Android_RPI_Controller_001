@@ -1,0 +1,5 @@
+Android/bin/
+Android/gen/
+*.pyc
+*.class
+java/bin/
