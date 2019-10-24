@@ -1,3 +1,13 @@
+##MRGInnovations Software & Technology
+------------------------------------
+Programmer: Charles Derek
+
+Please use the software and following documentation at your own risk.
+By using this Software, you are agreeing that MRGI Software & Technology is not responsible for any Actual damages,
+ or Consequential damages that may follow from using these resources.
+
+
+
 <p align="center"><img src="https://s3-us-west-1.amazonaws.com/connected-car-static-files/connected_car_logo_padded_blue.png" width="70%" style=""></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
