@@ -1,9 +1,9 @@
-##MRGInnovations Software & Technology
+## MRGInnovations Software & Technology
 ------------------------------------
-Programmer: Charles Derek
+**Programmer: Charles Derek**
 
 Please use the software and following documentation at your own risk.
-By using this Software, you are agreeing that MRGI Software & Technology is not responsible for any Actual damages,
+By using this Software, you are agreeing that MRGI Software & Technology and Programmers listed herein are not resp$
  or Consequential damages that may follow from using these resources.
 
 
