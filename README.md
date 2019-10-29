@@ -1,7 +1,8 @@
 ## MRGInnovations Software & Technology
-![alt text](https://raw.githubusercontent.com/CharlesDerek/MRGI-SAR_Application_002_censored/master/images/MRGI-GIF.gif)
+**Innovating Customized Applications, Software & Website Platforms.**
+![alt text](https://raw.githubusercontent.com/CharlesDerek/MRGI-SAR_Application_002_censored/master/images/MRGI-Animated-single.gif)
 
-------------------------------------
+
 **Programmer: Charles Derek**
 
 Please use the software and following documentation at your own risk.
@@ -10,6 +11,8 @@ Please use the software and following documentation at your own risk.
 By using this Software, you are agreeing that MRGI Software & Technology and Programmers listed herein are not responsible for any Actual damages
  or Consequential damages that may follow from using these resources.
 
+
+------------------------------------
 
 
 <p align="center"><img src="https://s3-us-west-1.amazonaws.com/connected-car-static-files/connected_car_logo_padded_blue.png" width="70%" style=""></p>
